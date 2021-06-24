@@ -10,6 +10,10 @@
     * User can move the books between shelves and any change is saved at home page and search results.
     * Any book can be removed from the shelves if the user choose shelf select to be none.
     * Each book has a control that lets you select the shelf for that book. When you select a different shelf, the book moves there.
+    
+## Installation And Start
+    * "npm install" to install the dependencies of the project.
+    * "npm start" to launch the project.
   
 ## Table of Contents
 
